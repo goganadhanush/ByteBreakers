@@ -4,7 +4,7 @@ import io
 import contextlib
 
 # Hugging Face API Key (Replace with your own)
-HUGGINGFACE_API_KEY = "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"
+HUGGINGFACE_API_KEY = "API KEY"
 MODEL_NAME = "mistralai/Mistral-7B-Instruct"  # You can change this to another model if needed
 
 st.set_page_config(page_title="CodeGenie AI", page_icon="✨", layout="wide")
